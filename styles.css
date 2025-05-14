@@ -701,7 +701,7 @@ section h2{
     }
 
     .nav-menu {
-        flex-direction: column !important;
+        flex-direction: column;
         gap: 1rem !important;
         text-align: center !important;
     }
